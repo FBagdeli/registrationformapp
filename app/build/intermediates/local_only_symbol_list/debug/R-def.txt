@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_creat_account
+id spinner_title
+id text_input_edit_text_email
+id text_input_edit_text_first_name
+id text_input_edit_text_last_name
+id text_input_edit_text_password
+id text_input_edit_text_phone
+id text_view_email
+id text_view_full_name
+id text_view_phone
+layout activity_main
+layout activity_summary
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string text_your_account_details
+style Theme.RegistrationFormApp
+xml backup_rules
+xml data_extraction_rules
